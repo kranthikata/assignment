@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.9076df31.css",
+    "main.js": "/assignment/static/js/main.382fc5e7.js",
+    "static/media/Image2.jpg": "/assignment/static/media/Image2.98ac249a7d8cb2ee1453.jpg",
+    "static/media/Image3.jpg": "/assignment/static/media/Image3.e74246540b9b84c6abd9.jpg",
+    "static/media/Image1.jpg": "/assignment/static/media/Image1.c00892443984e72b4f9d.jpg",
+    "static/media/SignUpImage.jpg": "/assignment/static/media/SignUpImage.4ff574d2bcc9f7e82603.jpg",
+    "static/media/Image4.jpg": "/assignment/static/media/Image4.922233c8ad36f8a3c111.jpg",
+    "static/media/Image5.jpg": "/assignment/static/media/Image5.fa2d9a6017df3e3ae35e.jpg",
+    "static/media/ShareMyWork.png": "/assignment/static/media/ShareMyWork.e346750d8542cc715c48.png",
+    "static/media/dribble-logo.png": "/assignment/static/media/dribble-logo.126ba10ba82d84669cb5.png",
+    "static/media/designInspiration.png": "/assignment/static/media/designInspiration.d1645bd12335c1456c59.png",
+    "static/media/hiringDesigner.png": "/assignment/static/media/hiringDesigner.abf4380d51be4853bea6.png",
+    "static/media/UploadIcon.svg": "/assignment/static/media/UploadIcon.6fa6056eb19ea693bacd29d3029dafb1.svg",
+    "index.html": "/assignment/index.html",
+    "main.9076df31.css.map": "/assignment/static/css/main.9076df31.css.map",
+    "main.382fc5e7.js.map": "/assignment/static/js/main.382fc5e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9076df31.css",
+    "static/js/main.382fc5e7.js"
+  ]
+}
